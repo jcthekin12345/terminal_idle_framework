@@ -1,5 +1,3 @@
-/.zig-cache/
-/.build
-/.vscode
-/.vscode-test
-/.vscode-test-*
+.zig-cache/
+zig-out/
+*.o
