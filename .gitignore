@@ -1,0 +1,5 @@
+/.zig-cache/
+/.build
+/.vscode
+/.vscode-test
+/.vscode-test-*
